@@ -16,6 +16,12 @@ All code is provided as chapter-specific Jupyter notebooks (download instruction
 
 ### Table of Contents
 
-
-
-
+* **Chapter 1**: *Analytical Thinking and the AI-Driven Enterprise* 
+* **Chapter 2**: *Intro to Analytical Thinking* 
+* **Chapter 3**: *Learning to Ask Good Business Questions* 
+* **Chapter 4**: *Actions, Levers, and Decisions* 
+* **Chapter 5**: *From Actions to Consquences: Learning How to Simplify* 
+* **Chapter 6**: *Uncertainty* 
+* **Chapter 7**: *Optimization*
+* **Chapter 8**: *Wrapping Up*
+* **Appendix**: *A Brief Intro to Machine Learning (and AB testing)*
