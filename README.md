@@ -25,7 +25,7 @@ All code is provided as chapter-specific Jupyter notebooks (download instruction
 * **Chapter 2**: *[Intro to Analytical Thinking](/jupyter_notebooks/chapter2.ipynb)* 
 * **Chapter 3**: *Learning to Ask Good Business Questions* 
 * **Chapter 4**: *Actions, Levers, and Decisions* 
-* **Chapter 5**: *From Actions to Consquences: Learning How to Simplify* 
+* **Chapter 5**: *[From Actions to Consquences: Learning How to Simplify](/jupyter_notebooks/chapter5.ipynb)* 
 * **Chapter 6**: *Uncertainty* 
 * **Chapter 7**: *Optimization*
 * **Chapter 8**: *Wrapping Up*
