@@ -2,10 +2,13 @@
 
 ![alt text](/figs/cover.png "Early Release Cover")
 
-This repository includes all the code used  in the book (Analytical Skills for AI and Data Science() and other additional information that may provide useful.
+This repository includes all the code used  in the book _Analytical Skills for AI and Data Science_ and other additional information that may provide useful.
 
 **The book will be available online on the last week of May 2020.**
 
+
+### Some reviews
+![alt text](/figs/review_safari.PNG "review from Safari")
 
 ### Tips for installing python
 
