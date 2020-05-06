@@ -29,4 +29,4 @@ All code is provided as chapter-specific Jupyter notebooks (download instruction
 * **Chapter 6**: *[Uncertainty](/jupyter_notebooks/chapter6.ipynb)* 
 * **Chapter 7**: *[Optimization](/jupyter_notebooks/chapter7.ipynb)*
 * **Chapter 8**: *Wrapping Up*
-* **Appendix**: *A Brief Intro to Machine Learning (and AB testing)*
+* **Appendix**: *[A Brief Intro to Machine Learning (and AB testing)](/jupyter_notebooks/appendix.ipynb)*
